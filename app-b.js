@@ -840,6 +840,6 @@ client.on('message', msg => {
 	}
 });
 
-client.login('Mzk1NjY5MDk1NjY1NzYyMzA0.DUZ24w.hT-L5Bb-LA9ke3OmH8y5YKfo9pk');
+client.login(process.env.BOT_TOKEN);
 //}
 
